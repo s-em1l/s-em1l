@@ -21,7 +21,7 @@
 
 - 💼 I'm currently working on: **🚀 Currently developing an innovative cryptocurrency wallet integrated into a Telegram bot. Combining seamless user experience with secure blockchain technology to make crypto management easier and more accessible.**
 - 🌱 I'm currently learning: **📚 Currently exploring Full-Stack development, building skills in both front-end and back-end technologies to create complete, scalable web applications.**
-- 💬 Ask me about: **💡Python, Aiogram, Pyrogram, SQLAlchemy, and FastAPI **
+- 💬 Ask me about: **💡Python, Aiogram, Pyrogram, SQLAlchemy, and FastAPI**
 - ⚡ Fun fact: **🧑‍💻 I once optimized a script while waiting for my coffee to brew**
 
  **<h3 align="left">Skills</h3>**
